@@ -15,7 +15,7 @@ const Home = () => {
     "Align card with the theme.",
     "Use Canva, Figma, or Photoshop.",
     "One card per participant.",
-    "File formats: AI, PSD, and Canva or Figma Link",
+    "File formats: AI, PSD, and Canva or Figma",
     "Copied designs are strictly not allowed. Ensure your submission is original and reflects your creativity.",
     "Deadline: 3rd January 2026 at 11:59PM ⏰",
   ];
