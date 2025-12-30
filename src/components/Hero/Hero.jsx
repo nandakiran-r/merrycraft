@@ -48,11 +48,11 @@ const Hero = () => {
         <img className="hero-img" src={HERO} alt="" />
       </div>
       <a
-        href="https://mulearn.org/r/illumunate-merrycraft
+        href="https://airtable.com/appGbQllcamSsKWoO/pagSMxrmfCq1aotMJ/form
 "
         className="hero-btn"
       >
-        Join Now
+        Submit Now
       </a>
 
     </div>

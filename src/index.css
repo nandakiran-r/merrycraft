@@ -19,6 +19,12 @@ body {
   font-family: var(--comicFont);
 }
 
+@media (max-width: 768px) {
+  body {
+    background-size: 600px, cover;
+  }
+}
+
 :root {
   --primary-bg: #570508;
   --sec-bg: #221E15;
