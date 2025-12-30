@@ -48,8 +48,8 @@ const Home = () => {
             contact Us
           </div>
           <div className="grp">
-            <a href="tel:+919895467969" className="contact-btn">
-              Abhinav : 9895467969
+            <a href="tel:+917594824490" className="contact-btn">
+              Nandakiran : 7594824490
             </a>
             <a href="mailto:mulearndevagiri@gmail.com" className="email-btn">
               Email : mulearndevagiri@gmail.com
@@ -58,7 +58,8 @@ const Home = () => {
         </div>
       </div>
       <footer>
-        <a href="https://abhinav-k-e.github.io/"> Built and Designed by Abhinav K E</a>
+        <a href="https://abhinav-k-e.github.io/"> Built and Designed by Abhinav K E </a>
+        <a href="https://github.com/nandakiran-r"> & Nandakiran R</a>
         <img src={SNOW} className="foot-img" alt="" />
       </footer>
     </div>
