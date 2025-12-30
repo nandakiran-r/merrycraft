@@ -17,7 +17,7 @@ const Home = () => {
     "One card per participant.",
     "File formats: AI, PSD, and Canva or Figma Link",
     "Copied designs are strictly not allowed. Ensure your submission is original and reflects your creativity.",
-    "Deadline: 28th December 2024 at 11:59PM ⏰",
+    "Deadline: 3rd January 2026 at 11:59PM ⏰",
   ];
   return (
     <div className="home-page">
