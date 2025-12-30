@@ -14,12 +14,13 @@
 }
 
 body {
-  background-color: var(--primary-bg);
+  background: linear-gradient(to bottom, #570508, #000000);
+  min-height: 100vh;
   font-family: var(--comicFont);
 }
 
 :root {
-  --primary-bg: #801611;
+  --primary-bg: #570508;
   --sec-bg: #221E15;
   --primary-txt: #fff;
 
