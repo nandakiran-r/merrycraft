@@ -3,7 +3,7 @@ import "./Hero.scss";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 import HERO from "../../assets/images/hero.png";
-import SNOW from "../../assets/images/snow.svg";
+
 
 const Hero = () => {
   //gsap
@@ -54,7 +54,7 @@ const Hero = () => {
       >
         Join Now
       </a>
-      <img className="snow" src={SNOW} alt="" />
+
     </div>
   );
 };

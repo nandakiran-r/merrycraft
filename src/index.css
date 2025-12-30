@@ -14,7 +14,7 @@
 }
 
 body {
-  background: linear-gradient(to bottom, #570508, #000000);
+  background: url('./assets/images/pattern.svg'), linear-gradient(to bottom, #570508, #000000);
   min-height: 100vh;
   font-family: var(--comicFont);
 }

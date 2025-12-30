@@ -218,26 +218,10 @@ footer {
     text-align: center;
   }
 
-  .foot-img {
-    position: absolute;
-    margin-bottom: -600px;
-    left: 0;
-    width: 100%;
-    opacity: 0.5;
-  }
+
 }
 
-@media (max-width: 1300px) {
-  footer {
-    .foot-img {
-      position: absolute;
-      margin-bottom: -40vw;
-      left: 0;
-      width: 100%;
-      opacity: 0.5;
-    }
-  }
-}
+
 
 @media (max-width: 850px) {
   .guidelines {
@@ -262,13 +246,7 @@ footer {
     margin-top: -100px;
     padding-bottom: 20px;
 
-    .foot-img {
-      position: absolute;
-      margin-bottom: -40vw;
-      left: 0;
-      width: 100%;
-      opacity: 0.5;
-    }
+
   }
 }
 

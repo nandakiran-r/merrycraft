@@ -1,9 +1,9 @@
 import React from "react";
 import "./Nav.scss";
 
-import MULOGO from "../../assets/logos/mu.svg";
-import ILLU from "../../assets/logos/illu.svg";
-import DEV from "../../assets/logos/mulearn-campus.svg";
+import MULOGO from "../../assets/logos/mu.png";
+import ILLU from "../../assets/logos/illu.png";
+import DEV from "../../assets/logos/mulearn-campus.png";
 
 const Nav = () => {
   return (
