@@ -58,7 +58,7 @@ const Home = () => {
         </div>
       </div>
       <footer>
-        <a href="https://abhinav-k-e.github.io/"> Built and Designed by Abhinav K E </a>
+        <a href="https://abhinav-k-e.github.io/"> By Abhinav K E </a>
         <a href="https://github.com/nandakiran-r"> & Nandakiran R</a>
 
       </footer>
